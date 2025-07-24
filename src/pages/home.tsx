@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
 const namePool = [
-  'Afsal', 'Ashutosh', 'Chitranshu', 'Derangula', 'Ezra', 'Harsh',
+  'Afsal', 'Ashutosh', 'Chitranshu', 'Derangula Suresh', 'Ezra', 'Harsh',
   'Kaliappan', 'Navin', 'Omprakash', 'Pranay', 'Riyaz', 'Sabari',
   'Sai Bharath', 'Santhosh', 'Saran', 'Senthil', 'Shivam', 'Sriram',
   'Stuti', 'Vinoth'
