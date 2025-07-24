@@ -164,15 +164,7 @@ export default function Home() {
           Fun Friday 🎉
         </motion.h1>
         
-        <motion.div
-          initial={{ opacity: 0, x: 20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.5, delay: 0.1 }}
-        >
-          <Badge variant="secondary" className="bg-gray-800/50 backdrop-blur-sm border-gray-700 text-gray-300">
-            Next Draw: Every Thursday 5 PM
-          </Badge>
-        </motion.div>
+
       </header>
 
       {/* Main Content */}
@@ -191,7 +183,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-base font-normal text-gray-300 max-w-2xl mx-auto">
-            Spin the wheel to choose your next two game show stars!
+            Click on the button to find next week board leaders.
           </p>
         </motion.div>
 
@@ -266,7 +258,7 @@ export default function Home() {
                 animate={{ scale: 1 }}
                 transition={{ duration: 0.5, delay: 0.2 }}
               >
-                🎉 This Week's Board Leaders 🎉
+                🎉 Next Week's Board Leaders 🎉
               </motion.h2>
               
               <div className="flex flex-col md:flex-row gap-8 items-center justify-center mb-8">
