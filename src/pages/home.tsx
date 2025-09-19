@@ -11,7 +11,7 @@ import { Badge } from "@/components/ui/badge";
 // ];
 
 const namePool = [
-  'Ashutosh', 'Suresh', 'Ezra', 'Navin', 'Omprakash', 'Afsal'
+  'Ashutosh', 'Suresh', 'Ezra', 'Omprakash', 'Afsal'
 ];
 
 interface ConfettiPiece {
