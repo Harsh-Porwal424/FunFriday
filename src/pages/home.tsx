@@ -3,16 +3,16 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
-// const namePool = [
-//   'Afsal', 'Ashutosh', 'Chitranshu', 'Derangula Suresh', 'Ezra', 'Harsh',
-//   'Kaliappan', 'Navin', 'Omprakash', 'Pranay', 'Riyaz', 'Sabari',
-//   'Sai Bharath', 'Santhosh', 'Saran', 'Senthil', 'Shivam', 'Sriram',
-//   'Stuti', 'Vinoth'
-// ];
-
 const namePool = [
-  'Suresh', 'Omprakash', 'Afsal'
+  'Afsal', 'Ashutosh', 'Chitranshu', 'Derangula Suresh', 'Ezra', 'Harsh',
+  'Kaliappan', 'Navin', 'Omprakash', 'Pranay', 'Riyaz', 'Sabari',
+  'Sai Bharath', 'Santhosh', 'Saran', 'Senthil', 'Shivam', 'Sriram',
+  'Stuti', 'Vinoth'
 ];
+
+// const namePool = [
+//   'Suresh', 'Omprakash', 'Afsal'
+// ];
 
 interface ConfettiPiece {
   id: number;
