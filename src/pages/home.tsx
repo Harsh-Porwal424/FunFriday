@@ -4,10 +4,33 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
 const namePool = [
-  'Afsal', 'Ashutosh', 'Chitranshu', 'Derangula Suresh', 'Ezra', 'Harsh',
-  'Kaliappan', 'Navin', 'Omprakash', 'Pranay', 'Riyaz', 'Sabari',
-  'Sai Bharath', 'Santhosh', 'Saran', 'Senthil', 'Shivam', 'Sriram',
-  'Stuti', 'Vinoth'
+  'Afsal',
+  'Aravind Sekar',
+  'Bharath Kumar',
+  'Chitranshu',
+  'Derangula Suresh Babu',
+  'Ezra',
+  'Harsh Porwal',
+  'Kaliappan',
+  'Konatham Prem Sai',
+  'Mani Bharathi Natarajan',
+  'Navin Bamane',
+  'Sri Sai Niranjan',
+  'Omprakash Mishra',
+  'Pranay Deep Korada',
+  'Riyaz Ahamed',
+  'Sabari Balan Ravichandran',
+  'Sai Bharath Venigalla',
+  'Santhosh R',
+  'Saran Kumar',
+  'Senthil Kumar Vaithiyanathan',
+  'Shivam Kumar',
+  'Sreenidhi R',
+  'Sriram',
+  'Stuti Agarwal',
+  'Surya',
+  'swarnalakshmi ravi',
+  'Vinoth'
 ];
 
 // const namePool = [
